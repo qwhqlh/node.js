@@ -1,4 +1,4 @@
-## 一、Webhostmost在Node.js环境搭建vless-ws-tls脚本
+## 一、Webhosting在Node.js环境搭建vless-ws-tls脚本
 
 ```
 
@@ -19,7 +19,7 @@ DOMAIN：已解析在CF的域名
 
 -----------------------------------------------------
 
-## 二、Claw.Cloud在Node.js环境搭建vless-ws-tls脚本
+## 二、Cloud在Node.js环境搭建vless-ws-tls脚本
 
 填写UUID、端口、域名三个变量再运行脚本，现实一键无交互运行，每次重装后输出节点信息不变
 
