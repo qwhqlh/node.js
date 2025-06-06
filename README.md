@@ -26,4 +26,6 @@ DOMAIN：已解析在CF的域名
 Claw.Cloud专用一键脚本(无交互)：
 
 
-``
+
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
